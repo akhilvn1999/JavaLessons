@@ -1,5 +1,5 @@
 
-//Lesson 3
+//Lesson 4
 
 //NamingConventions is the class name, here N and C capitalized
 public class NamingConventions {
