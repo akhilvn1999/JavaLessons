@@ -25,6 +25,6 @@ public void localMethod(){
  * Interface naming should be like class
  * Method name start with lower case, then each internal word should be capitalized.For example : localMethod
  * Variable name starts with lower case, then each internal word capitalized.For example : testVariable
- * Variable name should not start with _ $ sign and number. And white space not allowed in variable.
+ * Variable name should not start with _,$ sign and number. And white space not allowed in variable.
  * Constants name should be in capital letter
  */
