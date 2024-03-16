@@ -95,12 +95,12 @@ double h = 34.12345678934;
 
 /* -- These are the 8 primitive data types--------------*/
 
-// Non primitive data types : String(UTF-16),Arrays and Class
+// Non primitive data types : String(UTF-16),Arrays,Class, Interfaces
 
  /**
 
   * Primitive data types are already predefined in java
-  * Non-primitive data types are defined by programmers ( Except string )
+  * Non-primitive data types are defined by programmers
   * Non-primitive data types can be used to perform methods
   * Primitive data type have always a value but non-primitive data type value can be null
 
