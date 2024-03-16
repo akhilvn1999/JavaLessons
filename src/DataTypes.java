@@ -1,3 +1,6 @@
+
+// Lesson  5
+
 public class DataTypes {
 
 // Boolean data type : Store true or false values
@@ -23,7 +26,7 @@ byte b = 125;
  */
 
 //Char data type : Stores a single character/letter or ASCII values / Unicode values
-char c = 'a';
+ static char c = 65535;
 
 /**
 
