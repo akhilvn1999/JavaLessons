@@ -20,7 +20,7 @@ byte b = 125;
 /**
 
  * default value is 0
- * size 8 byte
+ * size 8 bit
  * Range of values accepting : -128 to 127
 
  */
